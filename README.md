@@ -1,4 +1,6 @@
-# Attributes
+See [attributes-client](https://github.com/claycoleman/attributes-client).
+
+# Christlike Attributes Activity Server
 
 To start your Phoenix server:
 
